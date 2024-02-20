@@ -1,4 +1,4 @@
-const rumus = require('./rumus');
+const rumus = require('./node_modules/rumus');
 
 // hitung luas persegi
 let sisiPersegi1 = 10;
